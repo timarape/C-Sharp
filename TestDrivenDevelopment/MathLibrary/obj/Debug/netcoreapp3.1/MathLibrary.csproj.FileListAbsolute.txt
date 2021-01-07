@@ -1,0 +1,9 @@
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.deps.json
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\bin\Debug\netcoreapp3.1\MathLibrary.pdb
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csprojAssemblyReference.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfoInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.AssemblyInfo.cs
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\MathLibrary\obj\Debug\netcoreapp3.1\MathLibrary.pdb

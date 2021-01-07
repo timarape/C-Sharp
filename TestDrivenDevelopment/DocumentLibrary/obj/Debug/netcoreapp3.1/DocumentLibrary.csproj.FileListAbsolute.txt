@@ -1,0 +1,9 @@
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\bin\Debug\netcoreapp3.1\DocumentLibrary.deps.json
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\bin\Debug\netcoreapp3.1\DocumentLibrary.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\bin\Debug\netcoreapp3.1\DocumentLibrary.pdb
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.csprojAssemblyReference.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.AssemblyInfoInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.AssemblyInfo.cs
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.csproj.CoreCompileInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\DocumentLibrary\obj\Debug\netcoreapp3.1\DocumentLibrary.pdb

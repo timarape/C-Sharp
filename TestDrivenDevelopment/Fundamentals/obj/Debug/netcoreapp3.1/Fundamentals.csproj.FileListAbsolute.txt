@@ -1,0 +1,9 @@
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\bin\Debug\netcoreapp3.1\Fundamentals.deps.json
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\bin\Debug\netcoreapp3.1\Fundamentals.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\bin\Debug\netcoreapp3.1\Fundamentals.pdb
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.AssemblyInfoInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.AssemblyInfo.cs
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.dll
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.pdb
+C:\Programming\C_SharpConcepts\TestDrivenDevelopment\Fundamentals\obj\Debug\netcoreapp3.1\Fundamentals.csprojAssemblyReference.cache

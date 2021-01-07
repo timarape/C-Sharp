@@ -1,0 +1,13 @@
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.exe
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.deps.json
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.runtimeconfig.json
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.runtimeconfig.dev.json
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.dll
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\bin\Debug\netcoreapp3.1\WorkingWithClasses.pdb
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.csprojAssemblyReference.cache
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.AssemblyInfoInputs.cache
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.AssemblyInfo.cs
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.csproj.CoreCompileInputs.cache
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.dll
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.pdb
+C:\Programming\C_SharpConcepts\WorkingWithClasses\WorkingWithClasses\obj\Debug\netcoreapp3.1\WorkingWithClasses.genruntimeconfig.cache
