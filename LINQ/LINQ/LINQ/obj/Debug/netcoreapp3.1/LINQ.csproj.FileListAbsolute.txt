@@ -11,3 +11,16 @@ C:\Programming\C#Topics\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreC
 C:\Programming\C#Topics\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
 C:\Programming\C#Topics\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
 C:\Programming\C#Topics\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.exe
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.deps.json
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.json
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.runtimeconfig.dev.json
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.dll
+C:\Programming\CSharp\LINQ\LINQ\LINQ\bin\Debug\netcoreapp3.1\LINQ.pdb
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csprojAssemblyReference.cache
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfoInputs.cache
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.AssemblyInfo.cs
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.dll
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.pdb
+C:\Programming\CSharp\LINQ\LINQ\LINQ\obj\Debug\netcoreapp3.1\LINQ.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.exe
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.deps.json
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.json
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.runtimeconfig.dev.json
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\bin\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.csprojAssemblyReference.cache
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfoInputs.cache
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.AssemblyInfo.cs
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.dll
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.pdb
+C:\Programming\CSharp\LINQ\LINQ\LambdaExpression\obj\Debug\netcoreapp3.1\LambdaExpression.genruntimeconfig.cache
