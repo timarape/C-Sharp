@@ -1,0 +1,16 @@
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.exe
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.dll
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\Programming\CSharp\GenericsApp\Generics\bin\Debug\net5.0\Generics.pdb
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.dll
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.pdb
+C:\Programming\CSharp\GenericsApp\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
