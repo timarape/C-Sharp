@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LINQ\\LINQ",
+    "\\LINQ\\LINQ\\LINQ"
   ],
+  "SelectedNode": "\\TestDrivenDevelopment",
   "PreviewInSolutionExplorer": false
 }
