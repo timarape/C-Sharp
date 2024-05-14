@@ -1,0 +1,15 @@
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\bin\Debug\net8.0\BasicProgram.exe
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\bin\Debug\net8.0\BasicProgram.deps.json
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\bin\Debug\net8.0\BasicProgram.runtimeconfig.json
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\bin\Debug\net8.0\BasicProgram.dll
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\bin\Debug\net8.0\BasicProgram.pdb
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfoInputs.cache
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.AssemblyInfo.cs
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.csproj.CoreCompileInputs.cache
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.sourcelink.json
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.dll
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\refint\BasicProgram.dll
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.pdb
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\BasicProgram.genruntimeconfig.cache
+C:\IkenB\IkenLearn\C-Sharp\BasicProgram\obj\Debug\net8.0\ref\BasicProgram.dll
